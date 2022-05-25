@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER": "697e9473547867cf",
 	"APPLOVIN_INTERSTITIAL": "5737fcc9649cc9cd",
 
-	"whichAds": 2,
+	"whichAds": 0,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -18,7 +18,7 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "",
+	"BUTTON_NAME_1": "Start Shop",
 	"BUTTON_NAME_2": "Shop Now",
 
 	"URL" : "https://www.sinsay.com/",
