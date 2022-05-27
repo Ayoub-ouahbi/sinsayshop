@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner":"ca-app-pub-1104048893896770/6487499024",
+	"admob_inter":"ca-app-pub-1104048893896770/7615079563",
 
 	"APP_KEY": "14f396919",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER": "c2c96732f1581ab0",
 	"APPLOVIN_INTERSTITIAL": "70df5f215062c943",
 
-	"whichAds": 2,
+	"whichAds": 0,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,6 +24,6 @@
 	"URL" : "https://www.sinsay.com/sq/en/",
 
 	"isAdsActivated1":true,
-	"isAdsActivated2":true
+	"isAdsActivated2":false
 
 }
