@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER": "c2c96732f1581ab0",
 	"APPLOVIN_INTERSTITIAL": "70df5f215062c943",
 
-	"whichAds": 0,
+	"whichAds": 2,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,6 +24,6 @@
 	"URL" : "https://www.sinsay.com/sq/en/",
 
 	"isAdsActivated1":true,
-	"isAdsActivated2":false
+	"isAdsActivated2":true
 
 }
